@@ -2,7 +2,7 @@
 
 > Create custom HTML5 tag
 
-[![Demo]](https://html5-custom-tag.firebaseapp.com/)
+[Demo](https://html5-custom-tag.firebaseapp.com/)
 
 
 ```html
